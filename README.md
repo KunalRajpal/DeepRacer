@@ -2,7 +2,7 @@
 
 ## Action Space
 
-![Alt text](images/action_space.png)
+![Action Space](images/action_space.png)
 
 | Action No. #| Steering Angle (°) | Speed (m/s)|
 | :---------- | :-----------:      | ----------:|
