@@ -1,13 +1,13 @@
 # AWS Deep Racer Competition
 
-Applied Proximal Policy Optimization (PPO) reinforcement learning to develop racing algorithms
-This reward functions achieve ~10-12 seconds lap time in physical environments
+Applied Proximal Policy Optimization (PPO) reinforcement learning to develop racing algorithms.
+This reward function achieves ~10-12 seconds lap time in physical environments.
 
 ![Agent Environment](images/agent_environment.png)
 
 ## Reward Function
 
-The reward function is a Python function named reward_function that takes a single argument params. 
+The reward function is a Python function named reward_function that takes a single argument params.
 This argument is a dictionary containing various parameters related to the vehicle's state and the track environment.
 
 ### Parameters
@@ -82,6 +82,10 @@ This argument is a dictionary containing various parameters related to the vehic
 
 Held at RRC Polytechnic in winnipeg, Manitoba on September 21, 2023
 [click here for more information](https://winnipeg.ctvnews.ca/why-rrc-polytech-students-are-racing-miniature-cars-1.6573439)
+
+## Racetrack
+
+![Race Track PNG](images/deepracer-A-to-Z-speedway-basic.png)
 
 ## Conclusion
 
