@@ -1,5 +1,8 @@
 # AWS Deep Racer Competition
 
+This reward functions achieve ~10-12 seconds lap time in physical environments.
+![Agent Environment](images/agent_environment.png)
+
 ## Reward Function
 
 The reward function is a Python function named reward_function that takes a single argument params. 
