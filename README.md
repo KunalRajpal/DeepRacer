@@ -1,6 +1,8 @@
 # AWS Deep Racer Competition
 
-This reward functions achieve ~10-12 seconds lap time in physical environments.
+Applied Proximal Policy Optimization (PPO) reinforcement learning to develop racing algorithms
+This reward functions achieve ~10-12 seconds lap time in physical environments
+
 ![Agent Environment](images/agent_environment.png)
 
 ## Reward Function
@@ -80,3 +82,7 @@ This argument is a dictionary containing various parameters related to the vehic
 
 Held at RRC Polytechnic in winnipeg, Manitoba on September 21, 2023
 [click here for more information](https://winnipeg.ctvnews.ca/why-rrc-polytech-students-are-racing-miniature-cars-1.6573439)
+
+## Conclusion
+
+Achieved lap times of 10.49s (fastest), 11.43s, and 11.93s in AWS Deep Racer Competition held at RRC Polytechnic, Winnipeg, MB
